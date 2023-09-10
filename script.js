@@ -35,7 +35,7 @@ const cardHTML = `
                     <small># {id}</small>
                 </div>
                 <div class="img bg-{type}">
-                    <img src="https://pokeres.bastionbot.org/images/pokemon/{id}.png" alt="" />
+                    <img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/{id}.png" alt="" />
                 </div>
                 <div class="type {type}">
                     <p>{type}</p>
